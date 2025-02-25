@@ -42,7 +42,7 @@
 			"Incense",
 			"Tobacco"
 		],
-		"uniques": ["Hidden when religion is disabled","Gain a free [Temple] [in this city]","[+50]% Natural religion spread [in this city]"],
+		"uniques": ["Unavailable <when religion is disabled>","Gain a free [Temple] [in this city]","[+50]% Natural religion spread [in this city]"],
 		"requiredTech": "Philosophy"
 	},
   {
@@ -69,8 +69,10 @@
       "Furs",
       "Dyes"
     ],
-	"uniques": ["[+2 Production] from [Cotton] tiles [in this city]",
-	"[+20]% Production when constructing [All] buildings [in this cities]"],
+	"uniques": [
+		"[+2 Production] from [Cotton] tiles [in this city]",
+	"[+20]% Production when constructing [All] buildings [in this city]",
+	],
     "hurryCostModifier": 20,
     "requiredTech": "Guilds"
   },
