@@ -121,7 +121,7 @@
 		"[+1 Gold] from [Rice] tiles [in this city]",
 		"[+1 Gold] from [Wheat] tiles [in this city]",
         "[+1 Gold] from [Potato] tiles [in this city]",
-		"[-10]% Unhappiness from [Population] [in this cities]"],
+		"[-10]% Unhappiness from [Population] [in this city]"],
 		"requiredTech": "Chemistry"
 	},
 	{
