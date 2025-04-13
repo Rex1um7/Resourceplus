@@ -161,7 +161,7 @@ BuildingIcons/Desert Trading Center
   orig: 200, 200
   offset: 0, 0
   index: -1
-BuildingIcons/Oil Refinery
+BuildingIcons/Petroleum Plant
   rotate: false
   xy: 1428, 848
   size: 200, 200
