@@ -169,7 +169,7 @@
 
 
 	{
-    "name": "Pertroleum Plant",
+    "name": "Petroleum Plant",
     "maintenance": 2,
     "production": 3,
     "requiredNearbyImprovedResources": ["Oil"],
