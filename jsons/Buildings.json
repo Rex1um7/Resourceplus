@@ -130,10 +130,10 @@
 		"food": 3,
 		"production": 1,
 		"requiredNearbyImprovedResources": [	
-			"Fur",
+			"Furs",
 			"Deer",
 			"Seal",
-			"Whale"
+			"Whales"
 		],
 		"uniques": [
 		"Must be on [Tundra]",
